@@ -1,6 +1,6 @@
-# Análisis Estratégico para una Productora Cinematográfica: Un Enfoque Basado en Datos
+# Análisis Estratégico para una Productora Cinematográfica: Un Enfoque Basado en Datos 🚀
 
-**Autor:** Juan Maidana, Agustín Lorenzo
+**Autor:** Juan Maidana Agustín Lorenzo
 **Materia:** Big Data
 **Fecha:** Julio 2025
 
